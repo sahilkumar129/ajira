@@ -1,0 +1,20 @@
+{
+  "name": "ajira",
+  "version": "1.0.0",
+  "description": "ajira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilkumar129/ajira.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilkumar129/ajira/issues"
+  },
+  "homepage": "https://github.com/sahilkumar129/ajira#readme"
+}
