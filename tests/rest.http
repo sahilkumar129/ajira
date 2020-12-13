@@ -28,8 +28,7 @@ Accept: {{contentType}}
 Content-Type: {{contentType}}
 
 {
-    "temperature": 20,
-    "storm": true
+    "storm": false
 }
 
 ### Get environment config
@@ -129,7 +128,7 @@ Accept: {{contentType}}
 Content-Type: {{contentType}}
 
 {
-    "direction": "up"
+    "direction": "down"
 }
 
 
